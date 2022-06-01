@@ -1,0 +1,4 @@
+- Using variables and conditionals
+- Print console.log statements to the terminal
+- Generating random numbers within a certain range
+- Using a switch statement to output different responses based on the random number generated
